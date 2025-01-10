@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://media.discordapp.net/attachments/1284601665739292693/1321640338598793226/image.png?ex=6782683b&is=678116bb&hm=c3c5ba5eee0119763e303f9cb77ef12756ce496c910c5b104214cb41ba0f805a&=&format=webp&quality=lossless" height="200"/>
 </p>
 <br>
 
@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am mokrypiskot a <b>part time developer and graphic designer. </b> Im a  <a href="https://uom.lk/"> <b>passionate self-learner</b>with a deep interest in exploring </a>. <br>
+    Hello, I am mokrypiskot a <b>part time developer and graphic designer. </b> Im a  <a href="https://discord.gg/mokrypiskot"> <b>passionate self-learner</b>with a deep interest in exploring </a>. <br>
     <b>and creating through code and design.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> I am always looking for opportunities <b>to improve, innovate, and bring ideas to life</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
   </em> 
   <br>
